@@ -48,7 +48,10 @@ This project is composed of several scripts, each with a specific purpose and te
   * numpy: For numerical operations and data manipulation.  
   * scikit-learn: To compute and display the confusion\_matrix and classification\_report for model performance evaluation.
 
-## 
+## **Data Used**
+
+Find converted data through the link below:
+https://drive.google.com/file/d/1a8tW9lpqB6_vrMqe8bCb5ryWspRKmKV9/view?usp=sharing
 
 ## **Directory Structure**
 
